@@ -20,6 +20,7 @@ El csv que elegi es este:
 Este venia bastante bien ordenado y con varios valores nulos. 
 Esta seria la tabla:
 ![principal](csv/nasa_exoplanets.csv)
+![](images/Captura%20de%20pantalla_20230121_125253.png)
 
 ### Tabla complementaria:
 
@@ -74,3 +75,17 @@ Es la misión Kepler, aqui os pongo la descripcion de wikipedia:
 
 
 ### Conclusión
+
+Sabiendo ya que, de momento no hay ningun exoplaneta aparentemente habitable, estos son los 7 exoplanetas mas parecidosen tamaño y temperatura a la tierra y su descripción.
+![](images/Captura%20de%20pantalla_20230126_010724.png)
+
+
+Solo queda seguir investigando a ver que puede ofrecernos el infinito espacio.
+
+![](images/buzz-lightyear-volando-en-toy-story-4_3840x2160_xtrafondos.com.jpg)
+
+"Hasta el infinito y mas allá"
+
+
+
+
