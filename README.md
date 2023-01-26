@@ -55,7 +55,10 @@ Esta es una grafica de la libreria missigno que muestra las columnos y los valor
 Unir, limpiar y seleccionar los elementos y columnas a utilizar
 Este es el jupyter notebook donde realizo este proceso de limpieza [limpieza](limpieza.ipynb).
 
+# Mongo
+Elijo Mongo para subir mis datos.
 
+Se puede ver como en el archivo ![mongo](notebooks/DBmongo.ipynb)
 
 # Analisis y Visualización 
 
